@@ -58,7 +58,7 @@ EOM;
 	}
 	public function facebookBox() {
 		
-		// code from http://developers.facebook.com/docs/reference/plugins/like/
+		// code https://developers.facebook.com/docs/plugins/like-box-for-pages
 		$html = <<< EOM
    				<div class="fb-like-box" data-href="%href%" 
 					data-width="%width%" data-height="230" data-colorscheme="%scheme%" 
