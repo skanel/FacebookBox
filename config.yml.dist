@@ -1,0 +1,24 @@
+# put your app id , If you do not have it yet, please create it at https://developers.facebook.com/apps
+app_id: 1435323163364197
+# URL to 'like'. Leave blank to use the URL of the current page.
+href: https://www.facebook.com/ktomouk
+# Show profile photos when friends like this 
+show_faces: true
+# Show post from the page's timeline 
+show_border: false
+
+# Show the "Find Us on facebook" on the plugin 
+header: true
+
+#Specifies whether to display a stream of the latest posts by the Page.
+stream: true
+# width of the box in pixels. do not add 'px'.
+width: 300
+
+# height of the box in pixels. do not add 'px'.
+height: 230
+
+# color scheme. either 'light' or 'dark'
+scheme: light
+# language, defaults to en_US
+language: en_US
